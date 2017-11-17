@@ -6,7 +6,7 @@
 				{
 					"type": "mesh",
 					"color": "0x00ff00",
-					"url": "https://github.com/gmanjames/roboviz-assets/raw/master/models/m-falcon.stl"
+					"url": "https://raw.githubusercontent.com/gmanjames/roboviz-assets/master/models/m-falcon.stl"
 				}
 			]
 		}
